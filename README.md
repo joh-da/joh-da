@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joh-da
 - 👀 I’m interested Coding and Gaming
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on my Discord server
 - 📫 How to reach me / 
 
